@@ -1,0 +1,2 @@
+model_checkpoint_path: "cnn_gp_15_85_50_200"
+all_model_checkpoint_paths: "cnn_gp_15_85_50_200"
