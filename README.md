@@ -7,3 +7,5 @@ The data in the Data folder are numpy arrays of shape (m, n, p). Where m is the 
   - The 'MG' prefix relates to the microgrid or 'dynamic' data that follows a solar cycle.
   - The 'features' data refers to the model input data.
   - The 'labels' data refers to the model output data.
+
+The python version used for this project was 3.8.13.
